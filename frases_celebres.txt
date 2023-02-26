@@ -1,0 +1,21 @@
+Título: frases_celebres
+
+About Dataset
+
+Context
+
+Estos datos recogen frases personajes celebres. La información ha sido recogida mediante web scraping de la siguiente página web: http://quotes.toscrape.com/
+
+
+Content
+
+Este dataset contiene 10 filas y 3 columnas, que son las siguientes:
+
+-Index
+-Frase
+-Autor
+
+
+
+
+

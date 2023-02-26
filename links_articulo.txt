@@ -1,0 +1,23 @@
+
+Links Artículos Página Esperanto Wikipedia
+
+About 
+Una lista de todos los hiperlinks que contiene la página de wikipedia: https://es.wikipedia.org/wiki/Esperanto
+
+
+
+Acknowledgements
+La recopilación de estos datos a supuesto un esfuerzo que se verá recompensado con la correcta citación del autor, cuándo así se disponga en su uso.
+
+------Metadata------
+
+Usability
+
+License: Abierta
+
+Expected update frequecy: Anual 
+
+Authors: Ana López
+
+
+
