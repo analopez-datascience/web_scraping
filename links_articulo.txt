@@ -4,8 +4,10 @@ Links Artículos Página Esperanto Wikipedia
 About 
 En el cdv adjunto se encuentran un listado de todos los hiperlinks que contiene la página de wikipedia: https://es.wikipedia.org/wiki/Esperanto
 
+Se recogen un total de 1771 registros,
+
 Consultation Date
-Este proceso de web scraping ha tenido lugar el 24 de Febrero.
+Este proceso de web scraping ha tenido lugar el 24 de Febrero de 2023.
 
 Acknowledgements
 La recopilación de estos datos a supuesto un esfuerzo que se verá recompensado con la correcta citación del autor, cuándo así se disponga en su uso.

@@ -2,19 +2,37 @@ Título: frases_celebres
 
 About Dataset
 
+Consultation Date
+Este proceso de web scraping ha tenido lugar el 24 de Febrero de 2023.
+
 Context
 
-Estos datos recogen frases personajes celebres. La información ha sido recogida mediante web scraping de la siguiente página web: http://quotes.toscrape.com/
+Estos datos recogen frases personajes celebres. La información ha sido recogida mediante web scraping de la siguiente página web: http://quotes.toscrape.com/ 
+
+Se recogen un total de 10 registros.
 
 
 Content
 
 Este dataset contiene 10 filas y 3 columnas, que son las siguientes:
 
--Index
--Frase
--Autor
+-Index: Valores inmutables que se asignan a cada una de las filas del conjunto de datos.
 
+-Frase: Sentencia 
+
+
+-Autor: En el registro de autores encontramos actores, escritores, políticos...
+
+
+------Metadata------
+
+Usability
+
+License: Abierta
+
+Expected update frequecy: Anual 
+
+Authors: Ana López
 
 
 
